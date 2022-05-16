@@ -9,7 +9,7 @@ export default function App() {
           What are you looking for?
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="book" />
         </main>
         <footer className="text-center">
           <a href="https://github.com/ElenaSilv/dictionary-app">
