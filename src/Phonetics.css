@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo');
 
 .Phonetics a {
+    color: #0a3e64;
     border: 1px solid #ddd;
     text-decoration: none;
     padding: 10px 20px;
@@ -12,11 +14,13 @@
 }
 
 .Phonetics a:hover{
-    background-color: #9670f4;
+    background-color: rgb(168, 185, 221);
+    border: 1px solid rgb(168, 185, 221);
     color: white;
 }
 
 .Phonetics .text {
+    font-family:'Exo', sans-serif;
     opacity: 0.8;
     font-weight: bold;
 }

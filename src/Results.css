@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo');
+
 .Results h2 {
-    font-size: 36px;
+    font-family:'Exo', sans-serif;
+    font-size: 40px;
     font-weight: bold;
     line-height: 1.5;
+    color:rgb(82, 83, 83);
+    text-transform: uppercase;
 }

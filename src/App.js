@@ -5,9 +5,9 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header mt-3 mb-3 text-center">
-          What are you looking for?
-        </header>
+        <h1 className="App-header mb-3 text-center">
+          Which word are you looking for?
+        </h1>
         <main>
           <Dictionary defaultKeyword="book" />
         </main>
